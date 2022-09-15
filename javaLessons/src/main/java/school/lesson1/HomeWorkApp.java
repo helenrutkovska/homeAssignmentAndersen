@@ -44,7 +44,7 @@ public class HomeWorkApp {
 
     public static void compareNumbers() {
         int a = -7;
-        int b = 229;
+        int b = 231;
         if (a >= b) {
             System.out.println("a >= b");
         } else {
