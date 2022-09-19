@@ -2,8 +2,7 @@ package school.lesson2;
 
 public class SimpleLogicTasks {
     public static boolean within10and20(int x1, int x2) {
-        int sum = x1 + x2;
-        if (sum >= 10 && sum <= 20) {
+        if ((x1 + x2) >= 10 && (x1 + x2) <= 20) {
             System.out.println("true");
             return true;
         } else {
