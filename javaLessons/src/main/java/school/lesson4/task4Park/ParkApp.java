@@ -1,4 +1,4 @@
-package school.lesson4.Task4Park;
+package school.lesson4.task4Park;
 
 public class ParkApp {
     public static void main(String[] args) {

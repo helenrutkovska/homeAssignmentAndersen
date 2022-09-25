@@ -1,4 +1,4 @@
-package school.lesson4.Task3Payment;
+package school.lesson4.task3Payment;
 
 public class PaymentApp {
     public static void main(String[] args) {
